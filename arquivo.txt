@@ -15,4 +15,3 @@ git push origin master
 ssh-keygen -t rsa -C "valmirfd@gmail.com"
 cat ~/.ssh/id_rsa.pub
 
-#Iniciando com repositorios no github
